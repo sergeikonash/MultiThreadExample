@@ -101,4 +101,8 @@ public class LockWithCondition {
             }
         }
     }
+
+    public static void printInfo(){
+        System.out.println("Info");
+    }
 }
